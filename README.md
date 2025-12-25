@@ -15,7 +15,7 @@ Crimson Tide is a read-only onchain tool that helps developers validate network 
 
 ## Repository Structure
 
-- **app.crimson-tide.ts**  
+- **app/crimson-tide.ts**  
   Main script that connects to Coinbase Wallet and interacts with the Base RPC, performing read-only queries.
 
 - **contracts/**  
